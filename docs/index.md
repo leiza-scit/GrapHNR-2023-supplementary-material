@@ -1,5 +1,13 @@
 # GrapHNR 2023 - Supplementary Material
 
+## Overview
+
+> * [Use Cases](#use-cases)
+> * [FAIR and LOD](#fair-and-lod)
+> * [Materials and Methods](#materials-and-methods)
+> * [Results](#results)
+> * [Paper Figures](#paper-figures)
+
 ## Use Cases
 
 ![SSM-001](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-001.png)
@@ -127,7 +135,7 @@ The Hadrian’s Wall  (left) and North Sea Coast  site TiGeR-results as LOD HTML
 
 AMT statements for the Limes Example . Graphic: Florian Thiery CC BY 4.0
 
-# Paper Figures
+## Paper Figures
 
 ![Fig-01](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/01.png)
 
