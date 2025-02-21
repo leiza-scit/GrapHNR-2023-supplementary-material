@@ -14,14 +14,14 @@ Top-Left: Pompeji Forum. Photo: Matthias Süßen, CC BY-SA 3.0, via Wikimedia Co
 
 ![SM-003](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-003.png)
 
-The FAIR data principles and its questions. Graphics: Dr. Heidi Seibold, CC BY 4.0, via Wikimedia Commons [left;right]
+The FAIR data principles and its questions. Graphics: Dr. Heidi Seibold, CC BY 4.0, via Wikimedia Commons
 
 ![SM-004](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-004.png)
 
 Semantic modeling from Real Life to Databases. Graphic: Florian Thiery, CC BY 4.0, via Wikimedia Commons
 
 ![SM-005](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-005.png)
-left: Ontology Scheme: Classes, Individuals, Properties and Literals; right: Linked Data Principles. Graphic: Florian Thiery, CC BY 4.0, via Wikimedia Commons [left;right]
+left: Ontology Scheme: Classes, Individuals, Properties and Literals; right: Linked Data Principles. Graphic: Florian Thiery, CC BY 4.0, via Wikimedia Commons
 
 ![SM-006](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-006.png)
 
@@ -29,7 +29,7 @@ Linked Open Data Cloud images from lod-cloud.net (CC BY 4.0). Graphic: Florian T
 
 ![SM-007](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-007.png)
 
-left: Generic Metadata Framework Scheme; right: RDF Metadata Framework Scheme. Graphics: Florian Thiery / RGZM, CC BY 4.0, via Wikimedia Commons [left;right]
+left: Generic Metadata Framework Scheme; right: RDF Metadata Framework Scheme. Graphics: Florian Thiery / RGZM, CC BY 4.0, via Wikimedia Commons
 
 ## Materials and Methods
 
@@ -39,7 +39,7 @@ Selected dated sites with quantities per 5 years, generated at the Samian Resear
 
 ![SM-009](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-009.png)
 
-Samian Research datasheet of a stamp of the potter Aquitanus with from - to legacy dating information. Graphic: Allard W. Mees, CC BY 4.0.
+Samian Research datasheet of a stamp of the potter Aquitanus with from - to legacy dating information. Graphic: Allard W. Mees, CC BY 4.0
 
 ![SM-010](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-010.png)
 
@@ -127,28 +127,52 @@ The Hadrian’s Wall  (left) and North Sea Coast  site TiGeR-results as LOD HTML
 
 AMT statements for the Limes Example . Graphic: Florian Thiery CC BY 4.0
 
-# Fig in Paper
+# Paper Figures
+
+![Fig-01](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/01.png)
 
 Fig. 1 Temporal development of Milk/Normal teeth. The output of a CA of children’s secondary dentition showing a horseshoe parabola. Graphic: Allard W. Mees, CC BY 4.0
 
+![Fig-02](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/02.png)
+
 Fig. 2 Horseshoe paradigm, after Madsen (1988) . Graphic: Allard W. Mees / Florian Thiery, CC BY 4.0
+
+![Fig-03](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/03.png)
 
 Fig. 3 Left: Temporal relations according to Allen’s interval algebra between two events (red: event A, green: event B; e.g., event A < (=before) event B) arranged according to their conceptual neighborhood. Right: The corresponding labels are arranged accordingly. After Freksa (1992, S. 14), Fig. 3 . Graphic: Florian Thiery CC BY 4.0, via Wikimedia Commons
 
+![Fig-04](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/04.png)
+
 Fig. 4 Example of temporal reasoning using four Limes sections. Graphic: Florian Thiery, CC BY 4.0
+
+![Fig-05](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/05.png)
 
 Fig. 5 Alligator method test Roman emperors, correspondence analysis, via DOI: 10.5281/zenodo.1410516. Graphic: Florian Thiery / Allard W. Mees, CC BY 4.0
 
+![Fig-06](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/06.png)
+
 Fig. 6 Alligator method test Roman emperors, result as virtual timeline, via DOI: 10.5281/zenodo.1410516. Graphic: Florian Thiery / Allard W. Mees, CC BY 4.0
+
+![Fig-07](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/07.png)
 
 Fig. 7 Alligator method test Roman emperors, result as relative chronology, via DOI: 10.5281/zenodo.1410516. Graphic: Florian Thiery / Allard W. Mees, CC BY 4.0
 
+![Fig-08](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/08.png)
+
 Fig. 8 Dated sites in Britannia in a CA. Graphic: Allard W. Mees, CC BY 4.0
+
+![Fig-09](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/09.png)
 
 Fig. 9 Londinium and its temporal neighbors on a Map. Graphic: Florian Thiery / Allard Mees, CC BY 4.0
 
+![Fig-10](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/10.png)
+
 Fig. 10 CA Result. Graphic: Florian Thiery / Allard W. Mees, CC BY 4.0
 
+![Fig-11](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/11.png)
+
 Fig. 11 A: The AMT time ontology using Allen’s interval algebra. B: AMT Axiom to perform reasoning using the during and after intervals using the product logic. C: Exemplary AMT modeling with the AMT web tool . D: Exemplary AMT reasoning with the AMT web tool. Graphic: Florian Thiery CC BY 4.0
+
+![Fig-12](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/12.png)
 
 Fig. 12 Wobbling datings due to varying underlying production cycles. Graphic: Allard W. Mees CC BY 4.0
