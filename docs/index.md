@@ -31,53 +31,101 @@ Linked Open Data Cloud images from lod-cloud.net (CC BY 4.0). Graphic: Florian T
 
 left: Generic Metadata Framework Scheme; right: RDF Metadata Framework Scheme. Graphics: Florian Thiery / RGZM, CC BY 4.0, via Wikimedia Commons [left;right]
 
-# TODO
+# Materials and Methods
 
-Fig. 8 Selected dated sites with quantities per 5 years, generated at the Samian Research website. Graphic: Allard W. Mees, CC BY 4.0
+![SM-008](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-008.png)
 
-Fig. 9 Samian Research datasheet of a stamp of the potter Aquitanus with from - to legacy dating information. Graphic: Allard W. Mees, CC BY 4.0.
+Selected dated sites with quantities per 5 years, generated at the Samian Research website. Graphic: Allard W. Mees, CC BY 4.0
 
-Fig. 10 Temporal development of Milk/Normal teeth. Graphic: Allard W. Mees, CC BY 4.0
+![SM-009](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-009.png)
 
-Fig. 14 Examples of temporal reasoning based on Allen’s interval algebra. Graphic: Florian Thiery, CC BY 4.0
+Samian Research datasheet of a stamp of the potter Aquitanus with from - to legacy dating information. Graphic: Allard W. Mees, CC BY 4.0.
 
-Fig. 15 Examples for temporal reasoning based on Freksa’s semi-intervals, cf. Freksa (1992), S.25, Fig 10 . Graphic: Florian Thiery, CC BY 4.0
+![SM-010](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-010.png)
 
-Fig. 17 The TiGeR method (schematic representation). Graphic: Florian Thiery / Allard Mees, CC BY 4.0
+Temporal development of Milk/Normal teeth. Graphic: Allard W. Mees, CC BY 4.0
 
-Fig. 18 The TiGeR ontology, via https://leiza-rse.github.io/tiger/vocab/. Graphic: Florian Thiery, CC BY 4.0
+![SM-014](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-014.png)
 
-Fig. 19 The Alligator Method steps A to F. Graphic: Florian Thiery, CC BY 4.0
+Examples of temporal reasoning based on Allen’s interval algebra. Graphic: Florian Thiery, CC BY 4.0
 
-Fig. 20 The Alligator Method steps G to J. Graphic: Florian Thiery, CC BY 4.0
+![SM-015](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-015.png)
 
-Fig. 24 Academic Meta Tool Role-Chain-Axiom (schematic representation). Graphic: Florian Thiery / Martin Unold, CC BY 4.0, via Wikimedia Commons
+Examples for temporal reasoning based on Freksa’s semi-intervals, cf. Freksa (1992), S.25, Fig 10 . Graphic: Florian Thiery, CC BY 4.0
 
-Fig. 25 Academic Meta Tool Quadruple (schematic representation). Graphic: Florian Thiery / Martin Unold, CC BY 4.0, via Wikimedia Commons
+![SM-017](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-017.png)
 
-Fig. 28 The Saalburg and its temporal neighbors on a Map. Graphic: Florian Thiery / Allard Mees, CC BY 4.0
+The TiGeR method (schematic representation). Graphic: Florian Thiery / Allard Mees, CC BY 4.0
 
-Fig. 29 Londinium and its temporal (before) neighbors (red boxes) as RDF, created with https://www.ldf.fi/service/rdf-grapher. Graphic: Florian Thiery, CC BY 4.0
+![SM-018](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-018.png)
 
-Fig. 30 Londinium as RDF using the TiGeR ontology. Graphic: Florian Thiery, CC BY 4.0
+The TiGeR ontology, via https://leiza-rse.github.io/tiger/vocab/. Graphic: Florian Thiery, CC BY 4.0
 
-Fig. 31 The Saalburg and its temporal (before) neighbors (red boxes) as RDF, created with https://www.ldf.fi/service/rdf-grapher. Graphic: Florian Thiery, CC BY 4.0
+![SM-019](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-019.png)
 
-Fig. 32 All TiGeR-Event Sites as a Feature Collection , created with the SPARQL Unicorn Ontology Documentation tool  as an HTML Page generator in GitHub Actions. Graphic: Florian Thiery CC BY 4.0
+The Alligator Method steps A to F. Graphic: Florian Thiery, CC BY 4.0
 
-Fig. 33 The Londinium  (left) and Camulodunum  site TiGeR-results as LOD HTML Page, created with the SPARQL Unicorn Ontology Documentation tool  as an HTML Page generator in GitHub Actions. Graphic: Florian Thiery, CC BY 4.0
+![SM-020](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-020.png)
 
-Fig. 34  Floating intervals for Limes sections (red): Hadrian’s Wall and the North Sea Coast. Graphic: Florian Thiery / Allard W. Mees, CC BY 4.0
+The Alligator Method steps G to J. Graphic: Florian Thiery, CC BY 4.0
 
-Fig. 36 Top: Virtual Timeline. Bottom: The potter’s overlap of the Limes parts can be described with the (normalized) Pearson correlation coefficient. Graphic: Florian Thiery / Allard W. Mees, CC BY 4.0
+![SM-024](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-024.png)
 
-Fig. 37 Hadrian’s Wall and the Alligator calculations as RDF, created with https://www.ldf.fi/service/rdf-grapher. Graphic: Florian Thiery CC BY 4.0
+Academic Meta Tool Role-Chain-Axiom (schematic representation). Graphic: Florian Thiery / Martin Unold, CC BY 4.0, via Wikimedia Commons
 
-Fig. 38 Hadrian’s Wall and the Allen Intervals as RDF, created with https://www.ldf.fi/service/rdf-grapher. Graphic: Florian Thiery CC BY 4.0
+![SM-025](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-025.png)
 
-Fig. 39 The Hadrian’s Wall  (left) and North Sea Coast  site TiGeR-results as LOD HTML Page, created with the SPARQL Unicorn Ontology Documentation tool  as an HTML Page generator in GitHub Actions. Graphic: Florian Thiery CC BY 4.0
+Academic Meta Tool Quadruple (schematic representation). Graphic: Florian Thiery / Martin Unold, CC BY 4.0, via Wikimedia Commons
 
-Fig. 41 AMT statements for the Limes Example . Graphic: Florian Thiery CC BY 4.0
+# Results
+
+![SM-028](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-028.png)
+
+The Saalburg and its temporal neighbors on a Map. Graphic: Florian Thiery / Allard Mees, CC BY 4.0
+
+![SM-029](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-029.png)
+
+Londinium and its temporal (before) neighbors (red boxes) as RDF, created with https://www.ldf.fi/service/rdf-grapher. Graphic: Florian Thiery, CC BY 4.0
+
+![SM-030](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-030.png)
+
+Londinium as RDF using the TiGeR ontology. Graphic: Florian Thiery, CC BY 4.0
+
+![SM-031](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-031.png)
+
+The Saalburg and its temporal (before) neighbors (red boxes) as RDF, created with https://www.ldf.fi/service/rdf-grapher. Graphic: Florian Thiery, CC BY 4.0
+
+![SM-032](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-032.png)
+
+All TiGeR-Event Sites as a Feature Collection , created with the SPARQL Unicorn Ontology Documentation tool  as an HTML Page generator in GitHub Actions. Graphic: Florian Thiery CC BY 4.0
+
+![SM-033](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-033.png)
+
+The Londinium  (left) and Camulodunum  site TiGeR-results as LOD HTML Page, created with the SPARQL Unicorn Ontology Documentation tool  as an HTML Page generator in GitHub Actions. Graphic: Florian Thiery, CC BY 4.0
+
+![SM-034](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-034.png)
+
+Floating intervals for Limes sections (red): Hadrian’s Wall and the North Sea Coast. Graphic: Florian Thiery / Allard W. Mees, CC BY 4.0
+
+![SM-036](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-036.png)
+
+Top: Virtual Timeline. Bottom: The potter’s overlap of the Limes parts can be described with the (normalized) Pearson correlation coefficient. Graphic: Florian Thiery / Allard W. Mees, CC BY 4.0
+
+![SM-037](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-037.png)
+
+Hadrian’s Wall and the Alligator calculations as RDF, created with https://www.ldf.fi/service/rdf-grapher. Graphic: Florian Thiery CC BY 4.0
+
+![SM-038](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-038.png)
+
+Hadrian’s Wall and the Allen Intervals as RDF, created with https://www.ldf.fi/service/rdf-grapher. Graphic: Florian Thiery CC BY 4.0
+
+![SM-039](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-039.png)
+
+The Hadrian’s Wall  (left) and North Sea Coast  site TiGeR-results as LOD HTML Page, created with the SPARQL Unicorn Ontology Documentation tool  as an HTML Page generator in GitHub Actions. Graphic: Florian Thiery CC BY 4.0
+
+![SM-041](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-041.png)
+
+AMT statements for the Limes Example . Graphic: Florian Thiery CC BY 4.0
 
 # Fig in Paper
 
