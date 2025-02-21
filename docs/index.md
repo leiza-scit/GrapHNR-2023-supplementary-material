@@ -139,7 +139,7 @@ AMT statements for the Limes Example . Graphic: Florian Thiery CC BY 4.0
 
 ![Fig-01](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/01.png)
 
-Fig. 1 Temporal development of Milk/Normal teeth. The output of a CA of children’s secondary dentition showing a horseshoe parabola. Graphic: Allard W. Mees, CC BY 4.0
+Fig. 1 Left: Temporal development of Milk/Normal teeth. The output of a CA of children’s secondary dentition showing a horseshoe parabola. Right: Temporal development of Milk/Normal teeth. Graphics: Allard W. Mees, CC BY 4.0
 
 ![Fig-02](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/02.png)
 
