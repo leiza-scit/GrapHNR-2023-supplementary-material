@@ -31,7 +31,7 @@ Linked Open Data Cloud images from lod-cloud.net (CC BY 4.0). Graphic: Florian T
 
 left: Generic Metadata Framework Scheme; right: RDF Metadata Framework Scheme. Graphics: Florian Thiery / RGZM, CC BY 4.0, via Wikimedia Commons [left;right]
 
-# Materials and Methods
+## Materials and Methods
 
 ![SM-008](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-008.png)
 
@@ -77,7 +77,7 @@ Academic Meta Tool Role-Chain-Axiom (schematic representation). Graphic: Florian
 
 Academic Meta Tool Quadruple (schematic representation). Graphic: Florian Thiery / Martin Unold, CC BY 4.0, via Wikimedia Commons
 
-# Results
+## Results
 
 ![SM-028](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-028.png)
 
