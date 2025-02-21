@@ -59,7 +59,7 @@ Examples of temporal reasoning based on Allen’s interval algebra. Graphic: Flo
 
 ![SM-015](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-015.png)
 
-Examples for temporal reasoning based on Freksa’s semi-intervals, cf. Freksa (1992), S.25, Fig 10 . Graphic: Florian Thiery, CC BY 4.0
+Examples for temporal reasoning based on Freksa’s semi-intervals, cf. Freksa (1992), S.25, Fig 10. Graphic: Florian Thiery, CC BY 4.0
 
 ![SM-017](https://raw.githubusercontent.com/leiza-scit/GrapHNR-2023-supplementary-material/main/docs/img/SM-017.png)
 
